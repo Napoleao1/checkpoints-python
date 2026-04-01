@@ -20,10 +20,10 @@ while True:
         break
     
     elif numero_escolhido < numero_secreto:
-        print("o numero é um pouco MAIOR ")       
+        print("o numero é um pouco MAIOR \n")       
         
     else:
-        print("o numero é um pouco MENOR ")            
+        print("o numero é um pouco MENOR \n")            
         
         
         
